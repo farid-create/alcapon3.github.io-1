@@ -1,3 +1,8 @@
+* {
+	box-sizing: border-box;
+}
+	
+	
 body {
 	background-color: #053d57; 
 	margin: 0;
@@ -274,3 +279,14 @@ footer {
   75%  {background: url(img/a1.jpg);}
   100% {background: url(img/a4.jpg);}
 }
+
+.menu icon {
+	color: black;
+	float: right;
+	font-size: 25px;
+	padding: 21px 0;
+	display: none;
+}
+
+
+	
