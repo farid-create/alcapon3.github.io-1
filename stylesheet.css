@@ -23,6 +23,10 @@ a, ul {
   text-decoration: none;
 }
 
+.clear {
+	clear: left;
+}
+
 .logo {
 	float: left;
 	width: 100px;
